@@ -1,0 +1,14 @@
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\obj\Debug\net8.0\usandoDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\obj\Debug\net8.0\usandoDoWhile.AssemblyInfoInputs.cache
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\obj\Debug\net8.0\usandoDoWhile.AssemblyInfo.cs
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\obj\Debug\net8.0\usandoDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\bin\Debug\net8.0\usandoDoWhile.exe
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\bin\Debug\net8.0\usandoDoWhile.deps.json
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\bin\Debug\net8.0\usandoDoWhile.runtimeconfig.json
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\bin\Debug\net8.0\usandoDoWhile.dll
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\bin\Debug\net8.0\usandoDoWhile.pdb
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\obj\Debug\net8.0\usandoDoWhile.dll
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\obj\Debug\net8.0\refint\usandoDoWhile.dll
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\obj\Debug\net8.0\usandoDoWhile.pdb
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\obj\Debug\net8.0\usandoDoWhile.genruntimeconfig.cache
+C:\Users\RL\Desktop\csharp\doWhile\usandoDoWhile\obj\Debug\net8.0\ref\usandoDoWhile.dll
